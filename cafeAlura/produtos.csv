@@ -1,0 +1,28 @@
+﻿Produto;Unidade de Medida;Estoque Mínimo;Custo Unitário;Preço Unitário
+Café;Unidade ;50; R$ 2,00 ; R$ 6,00 
+Pão;Kg;5; R$ 1,50 ; R$ 3,00 
+Coxinha;Kg;50; R$ 0,50 ; R$ 6,50 
+Esfiha;Kg;50; R$ 1,00 ; R$ 4,50 
+Risoles;Kg;50; R$ 1,00 ; R$ 4,00 
+Empada;Kg;50; R$ 1,00 ; R$ 4,00 
+Quibe;Kg;50; R$ 1,00 ; R$ 4,00 
+Chá;Unidade;15; R$ 0,50 ; R$ 2,00 
+Manteiga;Unidade;15; R$ 0,25 ; R$ 1,00 
+Requeijão;Unidade;15; R$ 0,25 ; R$ 1,00 
+Chocolate;Caixa;10; R$ 0,25 ; R$ 8,50 
+Leite ;Caixa;12; R$ 10,00 ; R$ 5,00 
+Açúcar;Kg;4; R$ 2,00 ; R$ 2,00 
+Mini Pizza;Unidade;10; R$ 1,00 ; R$ 5,00 
+Chantilly;Unidade;2; R$ 0,75 ; R$ 1,50 
+Pão de Queijo;Kg;10; R$ 0,25 ; R$ 7,50 
+Suco de Laranja;Unidade;5; R$ 0,75 ; R$ 10,00 
+Hamburguer;Kg;2; R$ 8,00 ; R$ 15,00 
+Frango;Kg;2; R$ 4,50 ; R$ 15,00 
+Água ;Embalagem;5; R$ 0,75 ; R$ 2,00 
+Cerveja;Embalagem;5; R$ 0,75 ; R$ 8,00 
+Queijo;Kg;2; R$ 1,00 ; R$ 3,00 
+Presunto;Kg;2; R$ 2,50 ; R$ 3,50 
+Mortadela;Kg;2; R$ 1,50 ; R$ 3,00 
+Peito de Peru;Kg;2; R$ 3,00 ; R$ 4,50 
+Refrigerante;Unidade;10; R$ 2,00 ; R$ 8,00 
+Enroladinho;Kg;10; R$ 0,25 ; R$ 5,00 
